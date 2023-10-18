@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\bin\Debug\net7.0\CAEnumeratorEnumerable.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\bin\Debug\net7.0\CAEnumeratorEnumerable.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\bin\Debug\net7.0\CAEnumeratorEnumerable.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\bin\Debug\net7.0\CAEnumeratorEnumerable.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\bin\Debug\net7.0\CAEnumeratorEnumerable.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\CAEnumeratorEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\CAEnumeratorEnumerable.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\CAEnumeratorEnumerable.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\CAEnumeratorEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\CAEnumeratorEnumerable.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\refint\CAEnumeratorEnumerable.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\CAEnumeratorEnumerable.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\CAEnumeratorEnumerable.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnumeratorEnumerable\obj\Debug\net7.0\ref\CAEnumeratorEnumerable.dll
